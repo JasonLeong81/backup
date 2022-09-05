@@ -326,7 +326,7 @@ namespace ConsoleApp1
             // lambda, deployment, indexers, await and sync, static and debugging, nameof expressions?, generics?, date and time, structs, delegates, reflection, garbage collector, appending to arrays all other data types. 
             // typeof, LINQ jason leong
             Console.WriteLine("helo world");
-            int h = 7;
+            string h = "hello";
             int h1 = 7;
 
 
