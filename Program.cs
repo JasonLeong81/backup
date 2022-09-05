@@ -325,7 +325,7 @@ namespace ConsoleApp1
             //  Questions -------------------------------------------------------------------------------------------------------------------------------------------------------------------
             // lambda, deployment, indexers, await and sync, static and debugging, nameof expressions?, generics?, date and time, structs, delegates, reflection, garbage collector, appending to arrays all other data types. 
             // typeof, LINQ jason leong
-            Console.WriteLine(2);
+            Console.WriteLine(3);
 
 
         }
