@@ -327,6 +327,8 @@ namespace ConsoleApp1
             // typeof, LINQ jason leong
             Console.WriteLine("helo world");
             int h = 7;
+            int h1 = 7;
+
 
         }
     }
